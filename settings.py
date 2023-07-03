@@ -3,7 +3,7 @@ token = "6356845958:AAEvJUFRBBjDLvArJ4eiXnlQOuBmw6B4rws"
 
 botname = 'ToxCoin'
 
-admins = [6356845958] #админы бота через запятую
+admins = [5994508851] #админы бота через запятую
 
 LITTLE_SUBCOIN_TO_GET_SUBS = 5 #минимум сабкоинов для раскрутки канала
 
